@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=ffc0cb&height=275&section=header&text=Nahyun%20Lee&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=ffc0cb&height=275&section=header&text=Nahyun%20Lee&fontSize=80)
 
 <h3 align="center">🤔Who Am I</h3>
-👋 Hello I'm Nahyun Lee
-💻 School of Computer Science and Engineering, Chung-Ang University
+<p align="center>👋 Hello I'm Nahyun Lee</p>
+<p align="center>💻 School of Computer Science and Engineering, Chung-Ang University</p>
 
 <h3 align="center">📚️Tech Stack📚️</h3>
 <p align="center">
@@ -23,6 +23,3 @@
   <a href="https://blog.naver.com/nahyun902"><img src="https://img.shields.io/badge/My%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="https://www.instagram.com/1004_hyoni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
 </p>
-
-<h3 align="center">📫 How to reach me📫<h3>
-- 📧 nahyun902@naver.com
