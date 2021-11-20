@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=ffc0cb&height=275&section=header&text=Nahyun%20Lee&fontSize=80)
 
 <h3 align="center">🤔Who Am I</h3>
-<p align="center>👋 Hello I'm Nahyun Lee</p>
-<p align="center>💻 School of Computer Science and Engineering, Chung-Ang University</p>
+<p align="center">👋 Hello I'm Nahyun Lee</p>
+<p align="center">💻 School of Computer Science and Engineering, Chung-Ang University</p>
 
 <h3 align="center">📚️Tech Stack📚️</h3>
 <p align="center">
