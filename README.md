@@ -1,6 +1,3 @@
-<!--
-**nahyun902/nahyun902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffc0cb&height=275&section=header&text=Nahyun%20Lee&fontSize=80)
 
 <h3 align="center">🤔Who Am I</h3>
