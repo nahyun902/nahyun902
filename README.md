@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=ffc0cb&height=275&section=header&text=Nahyun%20Lee&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=ffc0cb&height=290&section=header&text=Nahyun%20Lee&fontSize=80&animation=twinkling)
 
 <h3 align="center">🤔Who Am I</h3>
 
