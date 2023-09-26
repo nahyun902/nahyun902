@@ -22,12 +22,9 @@
   
   
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyun902&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nahyun902)](https://solved.ac/nahyun902/)
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=nahyun902&show_icons=true">
+
+
   
     
 <h3 align="center">⭐ Follow Me ⭐</h3>
